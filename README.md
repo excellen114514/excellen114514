@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi there is ExceSama 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=excellen114514)](https://github.com/anuraghazra/github-readme-stats)
+My [blog](https://excesama.fun)
+
+Just a ~~Genshin Player~~
+
 <!--
 **excellen114514/excellen114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
