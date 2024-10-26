@@ -1,8 +1,12 @@
-## Hi there is ExceSama 👋
+## Hi there is ExceSama 🙃
+
+- currently learning JavaScript 
+- wanna learning Node 
+- 
 
 My [blog](https://excesama.fun)
 
-Just a ~~Genshin Player~~
+## TGX......
 
 <!--
 **excellen114514/excellen114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
