@@ -1,12 +1,25 @@
 ## Hi there is ExceSama 🙃
-
-- currently learning JavaScript 
-- wanna learning Node 
-- 
-
-My [blog](https://excesama.fun)
-
-## TGX......
+### I‘m ExceSama.U can call me 「梦鸢」 in Chinese
+## 😎About myself
+---
+- I‘m still learning,so my account's repositories are mostly forked.
+- I'm a student in China,so I may not reply on weekday.
+---
+## 📖 Learning 
+---
+- Javascript
+- Node
+## ♥️Hobby
+---
+- Genshin impart
+---
+## Follow me on other places!
+---
+- X:@whitebearovo
+- website:mahiru.us.kg
+## contact me
+---
+- telegram:
 
 <!--
 **excellen114514/excellen114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
