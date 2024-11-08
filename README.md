@@ -15,8 +15,8 @@
 ---
 ## Follow me on other places!
 ---
-- X:@whitebearovo
-- website:mahiru.us.kg
+- X:
+- website:[excesama.fun](https://excesama.fun)
 ## contact me
 ---
 - telegram:
