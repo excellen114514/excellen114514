@@ -15,11 +15,11 @@
 ---
 ## Follow me on other places!
 ---
-- X:
+- X:@Huayuansam1115
 - website:[excesama.fun](https://excesama.fun)
 ## contact me
 ---
-- telegram:
+- telegram:YoxiSama
 
 <!--
 **excellen114514/excellen114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
