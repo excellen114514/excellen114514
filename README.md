@@ -14,6 +14,13 @@
 
 > 🪐 **欢迎进入 [Excellen] 的主页**  
 🎮 **热爱游戏 | 不擅长开发**
+
+## 💻设备
+
+- OnePlus Pad 2Pro (Snapdragon 8 Elite)
+- REDMI K60 (Snapdragon 8 Gen1)
+- OMEN 16 (Intel(R) Core(TM) i7-14650HX+ NVIDIA GeForce RTX 4070 Laptop GPU)
+ 
 ---
 ## 📈 活动热力图
 
@@ -29,21 +36,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=excellen114514&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-## 🕹️ 模块速览
-📂 **/src** – 核心程序 & 代码实验室  
-📂 **/assets** – 静态资源与配置文件  
-📂 **/docs** – 代理人作战手册  
-
 ---
 
 ## 👾 关于我
 🎧 编程玩家 ｜ 🖤 绝区零粉丝 ｜ 🗡️ 赛博朋克爱好者  
 💥 **「只要代码能跑————管那么多干嘛」**
-- 🌐 GitHub主页：[excellen114514](https://github.com/excellen114514)  
-
-
+- 🌐 GitHub主页：[excellen114514](https://github.com/excellen114514)
+- 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=>>>+代理网络已断开" alt="typing"/>
-</p>
